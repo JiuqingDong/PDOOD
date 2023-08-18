@@ -4,7 +4,7 @@
 
 * The manuscript is currently under peer review. We submitted it to computer and electronics in agriculture.
 * Authors: Jiuqing Dong, et al.
-* We will release the code and complete this documentation as soon as possible.
+* We will release the complete code and complete this documentation after the article is published.
 
 
 ### Installation
@@ -34,7 +34,7 @@ please split the dataset by using our code.
 
   sh test.sh
 
-#### We will optimize our code and complete this documentation as soon as possible.
+#### We will release the complete code and complete this documentation after the article is published.
 
 
 
