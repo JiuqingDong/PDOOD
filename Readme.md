@@ -5,7 +5,7 @@
 * The manuscript is currently under peer review. We submitted it to computer and electronics in agriculture.
 * Authors: Jiuqing Dong, et al.
 * We will release the complete code and complete this documentation after the article is published.
-
+* please refer more results in '[Results.xlsx](https://github.com/JiuqingDong/PDOOD/blob/main/Results.xlsx)'
 
 ### Installation
 * Set up environment
