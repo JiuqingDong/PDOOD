@@ -1,0 +1,12 @@
+_BASE_: "../base-linear.yaml"
+RUN_N_TIMES: 100
+DATA:
+  NAME: "pvtc"
+  DATAPATH: "Datasets/PV_Tomato_color2"   #TODO: need to specify here
+  NUMBER_CLASSES: 1
+  MULTILABEL: False
+MODEL:
+  TYPE: "vit"
+SOLVER:
+  BASE_LR: 0.001
+  WEIGHT_DECAY: 0.0001
