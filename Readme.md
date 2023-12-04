@@ -1,4 +1,4 @@
-# Embracing Uncertainty- Efficient Tuning is a Key for Unknown Plant Disease Recognition
+# Embracing Uncertainty: The Impact of Fine-tuning Paradigms on Unknown Plant Diseases Recognition
 
 * This code is an implementation of our manuscript: Embracing Uncertainty: The Impact of Fine-tuning Paradigms on Unknown Plant Diseases Recognition.
 
@@ -8,7 +8,7 @@
 
 ## Installation
 * Set up environment
-
+Please check `env_setup.sh`.
 * install dependecies
 
 ## Pre-trained model preparation
