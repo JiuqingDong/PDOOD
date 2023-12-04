@@ -1,6 +1,6 @@
 # Embracing Uncertainty- Efficient Tuning is a Key for Unknown Plant Disease Recognition
 
-* This code is an implementation of our manuscript: Embracing Uncertainty- Efficient Tuning is a Key for Unknown Plant Disease Recognition.
+* This code is an implementation of our manuscript: Embracing Uncertainty: The Impact of Fine-tuning Paradigms on Unknown Plant Diseases Recognition.
 
 * Authors: Jiuqing Dong, et al.
 * We will release the complete code and complete this documentation after the article is published.
