@@ -7,9 +7,9 @@
 * please refer more results in '[Result.xlsx](https://github.com/JiuqingDong/PDOOD/blob/main/Result.xlsx)'.
 
 ## Installation
-* Set up environment
+
 Please check `env_setup.sh`.
-* install dependecies
+
 
 ## Pre-trained model preparation
 
