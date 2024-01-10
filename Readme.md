@@ -19,12 +19,11 @@ Download and place the pre-trained Transformer-based backbones to './models/'. I
 
   Cotton disease dataset: [https://www.kaggle.com/datasets/dhamur/cotton-plant-disease](https://www.kaggle.com/datasets/dhamur/cotton-plant-disease)
   
-  Mango disease dataset: [https://www.kaggle.com/datasets/dhamur/cotton-plant-disease](https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset)
+  Mango disease dataset: [https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset](https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset)
   
-  Strawberry disease dataset: [https://www.kaggle.com/datasets/dhamur/cotton-plant-disease](https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset)
+  Strawberry disease dataset: [https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset](https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset)
   
-  Tomato disease dataset and Plant village dataset: [https://www.kaggle.com/datasets/dhamur/cotton-plant-disease](https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/color)
-
+  Tomato disease dataset and Plant village dataset: [https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw](https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw)
 please split the dataset by using our code.
 
 ## Training and Test
