@@ -24,6 +24,7 @@ Download and place the pre-trained Transformer-based backbones to './models/'. I
   Strawberry disease dataset: [https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset](https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset)
   
   Tomato disease dataset and Plant village dataset: [https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw](https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw)
+
 please split the dataset by using our code.
 
 ## Training and Test
